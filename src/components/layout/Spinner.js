@@ -1,8 +1,23 @@
-import React, { Fragment } from 'react'
-import spinner from './spinner.gif';
+import React from 'react';
+import './Spinner.css';
 
-const Spinner = () => <Fragment>
-      <img src={spinner} alt="Loading..." style={{ width: '200px', margin: 'auto', display: 'block' }} />
-    </Fragment>
+const Spinner = () => {
+    return (
+            <div className="sk-circle text-center">
+                <div className="sk-circle1 sk-child"/>
+                <div className="sk-circle2 sk-child"/>
+                <div className="sk-circle3 sk-child"/>
+                <div className="sk-circle4 sk-child"/>
+                <div className="sk-circle5 sk-child"/>
+                <div className="sk-circle6 sk-child"/>
+                <div className="sk-circle7 sk-child"/>
+                <div className="sk-circle8 sk-child"/>
+                <div className="sk-circle9 sk-child"/>
+                <div className="sk-circle10 sk-child"/>
+                <div className="sk-circle11 sk-child"/>
+                <div className="sk-circle12 sk-child"/>
+            </div>
+    );
+};
 
-export default Spinner
+export default Spinner;
