@@ -1,0 +1,89 @@
+[33mcommit 890e63c491a5d27bef3386adf6843c12a135728f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Aleksandr Alinovskiy home PC <0885466@gmail.com>
+Date:   Sun Aug 11 20:13:26 2019 +0300
+
+    first commit
+
+[33mcommit dd7dcd76156c53dacd1cc71d1f44646f8670f064[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 92e0a09 ad27e49
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Fri Jul 5 09:31:03 2019 -0400
+
+    Merge pull request #2 from hussainanjar/master
+    
+    Fix for refresh on Netlify going to 404 page
+
+[33mcommit ad27e49e1c2676e9fb995a1cf340731ed44a9f80[m
+Author: Hussain Fakhruddin <hussain.engr@gmail.com>
+Date:   Thu Jul 4 20:11:02 2019 +0400
+
+    Fix for refresh on netlify going to 404 page
+
+[33mcommit 92e0a09a43d6766f2d6ca67cb3238e3f325eb604[m
+Merge: dc1768f ffb215a
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Mon Jul 1 08:25:56 2019 -0400
+
+    Merge pull request #1 from hussainanjar/master
+    
+    Fixed Typo
+
+[33mcommit ffb215a386bc7c2a0b81dea755f1f45e007b8a3d[m
+Author: Hussain Fakhruddin <hussain.engr@gmail.com>
+Date:   Mon Jul 1 09:17:32 2019 +0400
+
+    Typo
+
+[33mcommit dc1768f33a94a0af5afca17829b11b6e8c8c55e1[m
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Fri May 24 20:02:57 2019 -0400
+
+    App level state using context and hooks
+
+[33mcommit 2f89ffe0d11b83ce5d006bbd03b70880c57f90cb[m
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Fri May 24 12:57:37 2019 -0400
+
+    Convert classes to functiona and added hooks
+
+[33mcommit ede1adb009cf690655cfcd3a617a84ca246dc1b9[m
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Fri May 24 12:09:58 2019 -0400
+
+    User component
+
+[33mcommit 8ce050fcac01f27ed53b7f75c4f695a5c1686ef4[m
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Thu May 23 21:38:47 2019 -0400
+
+    Alert state & component
+
+[33mcommit 53b3709311d457c89a66662cb5f7a44232d51122[m
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Thu May 23 21:20:49 2019 -0400
+
+    Search and clear users functionality
+
+[33mcommit f9925657baee95a461dde1c7c3c86cc593974253[m
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Thu May 23 14:28:17 2019 -0400
+
+    Fetch initial users from Github
+
+[33mcommit ac78c3ffab08960646420d0c99e8c1b27fcd4707[m
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Thu May 23 13:41:38 2019 -0400
+
+    Initial Users & UserItem component
+
+[33mcommit d914916ae96214f96a6662f843d28241dd5adc4f[m
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Thu May 23 13:18:57 2019 -0400
+
+    Initial & Navbar
+
+[33mcommit 5b610fd1d4ba3f3e2cad5e379b34d5432d378e60[m
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Thu May 23 10:37:14 2019 -0400
+
+    Initial commit from Create React App
